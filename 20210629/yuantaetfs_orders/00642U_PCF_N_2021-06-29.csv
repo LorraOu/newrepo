@@ -1,0 +1,14 @@
+Date,2021/06/29
+Name,元大標普高盛原油ER指數股票型期貨信託基金
+Net Asset,12402682076
+Shares Outstanding,979321000
+ETF Currency,NTD
+NAV per Share,12.66
+
+Ticker,Name,Currency,Shares,Expiry Month,Market Value,Weight,Price,Multiplier,FX Rate
+CL,輕原油,USD,5990.0,202108,,99.74,,1000.0,27.89
+Cash,保證金,NTD,4127677245.0,,,,1,1,1.0
+Cash,保證金,USD,115074311.22,,,,1,1,27.89
+Cash,現金,NTD,2709933437.0,,,,1,1,1.0
+Cash,附買回債券,NTD,2654197607.0,,,,1,1,1.0
+

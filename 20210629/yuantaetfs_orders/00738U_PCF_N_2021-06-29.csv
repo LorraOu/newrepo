@@ -1,0 +1,15 @@
+Date,2021/06/29
+Name,元大道瓊白銀ER指數股票型期貨信託基金
+Net Asset,2495716478
+Shares Outstanding,92799000
+ETF Currency,NTD
+NAV per Share,26.89
+
+Ticker,Name,Currency,Shares,Expiry Month,Market Value,Weight,Price,Multiplier,FX Rate
+SI,白銀(5000盎司),USD,683.0,202109,,99.7,,5000.0,27.89
+Cash,保證金,NTD,957559655.0,,,,1,1,1.0
+Cash,保證金,USD,17298523.93,,,,1,1,27.89
+Cash,現金,NTD,841540406.0,,,,1,1,1.0
+Cash,現金,USD,702596.93,,,,1,1,27.89
+Cash,附買回債券,NTD,250713483.0,,,,1,1,1.0
+

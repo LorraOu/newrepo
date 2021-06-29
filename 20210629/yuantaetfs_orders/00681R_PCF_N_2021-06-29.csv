@@ -1,0 +1,15 @@
+Date,2021/06/29
+Name,元大美國政府20年期(以上)債券單日反向1倍基金
+Net Asset,3401550013
+Shares Outstanding,244594000
+ETF Currency,NTD
+NAV per Share,13.9069
+
+Ticker,Name,Currency,Shares,Expiry Month,Market Value,Weight,Price,Multiplier,FX Rate
+UB,美國超長期政府債券期貨,USD,-629.0,202109,,97.41,,10000.0,27.89
+Cash,保證金,NTD,647135160.0,,,,1,1,1.0
+Cash,保證金,USD,12665158.44,,,,1,1,27.89
+Cash,現金,NTD,2255944872.0,,,,1,1,1.0
+Cash,現金,USD,2013274.33,,,,1,1,27.89
+Cash,附買回債券,NTD,100000000.0,,,,1,1,1.0
+

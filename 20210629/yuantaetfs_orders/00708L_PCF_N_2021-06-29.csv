@@ -1,0 +1,14 @@
+Date,2021/06/29
+Name,元大標普高盛黃金ER單日正向2倍指數股票型期貨信託基金
+Net Asset,2080263248
+Shares Outstanding,80573000
+ETF Currency,NTD
+NAV per Share,25.82
+
+Ticker,Name,Currency,Shares,Expiry Month,Market Value,Weight,Price,Multiplier,FX Rate
+GC,NYMEX黃金(100盎斯),USD,839.0,202108,,199.97,,100.0,27.89
+Cash,保證金,NTD,681156207.0,,,,1,1,1.0
+Cash,保證金,USD,13357179.21,,,,1,1,27.89
+Cash,現金,NTD,299387906.0,,,,1,1,1.0
+Cash,附買回債券,NTD,729005879.0,,,,1,1,1.0
+

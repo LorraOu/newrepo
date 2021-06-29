@@ -1,0 +1,15 @@
+Date,2021/06/29
+Name,元大標智滬深300基金
+Net Asset,3500162616
+Shares Outstanding,145116000
+ETF Currency,NTD
+NAV per Share,24.12
+
+Ticker,Name,Currency,Shares,Expiry Month,Market Value,Weight,Price,Multiplier,FX Rate
+CN,富時中國A50指數期貨,USD,190.0,202107,,2.65,,1.0,27.899
+2827_HK,BOCI-PRUDENTIAL - W.I.S.-HKD,HKD,18379600.0,,,97.39,,1.0,0.2782105497440463
+Cash,保證金,NTD,8508.0,,,,1,1,1.0
+Cash,保證金,USD,1622851.26,,,,1,1,27.899
+Cash,現金,HKD,9058190.38,,,,1,1,3.5944
+Cash,現金,NTD,26150433.0,,,,1,1,1.0
+

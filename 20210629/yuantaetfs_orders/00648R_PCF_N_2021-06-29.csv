@@ -1,0 +1,15 @@
+Date,2021/06/29
+Name,元大標普500單日反向1倍基金
+Net Asset,1347428642
+Shares Outstanding,187188000
+ETF Currency,NTD
+NAV per Share,7.2
+
+Ticker,Name,Currency,Shares,Expiry Month,Market Value,Weight,Price,Multiplier,FX Rate
+ES,小S&P500指數期貨,USD,-227.0,202109,,100.35,,50.0,27.89
+Cash,保證金,NTD,660462065.0,,,,1,1,1.0
+Cash,保證金,USD,4898893.8,,,,1,1,27.89
+Cash,現金,NTD,146643875.0,,,,1,1,1.0
+Cash,現金,USD,175242.95,,,,1,1,27.89
+Cash,附買回債券,NTD,400000000.0,,,,1,1,1.0
+
